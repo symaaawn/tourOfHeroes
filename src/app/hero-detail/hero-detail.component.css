@@ -28,3 +28,11 @@ button:disabled {
   color: #ccc;
   cursor: auto;
 }
+
+.id-text{
+  display: inline-block;
+  width: 3em;
+  margin: .5em 0;
+  color: #607D8B;
+  font-weight: bold;
+}
